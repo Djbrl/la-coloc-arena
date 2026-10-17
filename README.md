@@ -42,7 +42,7 @@ request counts once, in one city.
 ## Fair play
 
 Be kind in reviews and in the arena's room. Never test anything on a real house, a real room or a real person's
-data. Anything that copies someone else's work, or breaks the repo's licence rules (no copyleft code: no GPL, AGPL or LGPL), is closed without points.
+data. Anything that copies someone else's work, or breaks the repo's licence rules (no copyleft code: no GPL, AGPL or LGPL), is closed without points. By sending a pull request, you agree it's published under this repo's MIT licence.
 
 ## Where to take part
 
